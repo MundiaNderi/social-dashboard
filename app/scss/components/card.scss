@@ -1,0 +1,5 @@
+@use '../util/' as *;  //import as a wildcard so you don't have to 
+// use a namespace unless importing from a library
+.card {
+    padding: rem(20);
+}
